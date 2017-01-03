@@ -1,0 +1,39 @@
+{
+	"name":"1997",
+	"value":100,
+	"children":
+	[
+		{
+
+			"name" : "suis",
+			"value":75,
+			"children":
+			[
+
+				{"name":"etudiant","value":25},
+				{"name":"etudiante","value":25},
+				{"name":"etudiantes","value":25}
+
+			]
+
+		},
+		{
+
+			"name":"je",
+			"value":75,
+			"children":
+			[
+				{"name":"etudiant","value":25},
+				{"name":"etudiante","value":25},
+				{"name":"etudiantes","value":25}
+			]
+
+		}
+
+	]
+
+
+}
+
+
+
